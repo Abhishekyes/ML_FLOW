@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/85ef202f9ede4ce4b6747ece50f957ab/artifacts
+end_time: 1687605927602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85ef202f9ede4ce4b6747ece50f957ab
+run_name: aged-mole-931
+run_uuid: 85ef202f9ede4ce4b6747ece50f957ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687605927261
+status: 3
+tags: []
+user_id: yoges
